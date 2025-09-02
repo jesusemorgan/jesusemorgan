@@ -34,9 +34,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 📊 [**Banking KPI Dashboard**](#) – Power BI dashboards for portfolio performance, risk, and customer metrics.  
-- 🧪 [**COVID-19 Data Analysis**](#) – Python + SQL exploration of health & socio-economic indicators.  
-- ⚡ [**Real-Time Contact Center Analytics**](#) – Automated alerts & reporting for telecom campaigns.  
+- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Projects/tree/main/Adventure_Works_Cycle) – Dashboards in Power BI on Performance.   
 
 ---
 
@@ -48,9 +46,7 @@
 
 ## 📫 Contact  
 - ✉️ Email: **rjespinozamorgan@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)  
-- 🖥️ Portfolio: [Add Notion/Website link]  
-- 📂 GitHub Projects: 👉 *scroll down ⬇️*  
+- 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)   
 
 ---
 
@@ -92,9 +88,7 @@
 ---
 
 ## 📂 Proyectos Destacados  
-- 📊 [**Dashboard de KPIs Bancarios**](#) – Tableros en Power BI para métricas de cartera, riesgo y clientes.  
-- 🧪 [**Análisis de Datos COVID-19**](#) – Exploración con Python + SQL de indicadores sanitarios y socioeconómicos.  
-- ⚡ [**Analytics en Contact Centers en Tiempo Real**](#) – Automatización de alertas y reportes para campañas de telecomunicaciones.  
+- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Projects/tree/main/Adventure_Works_Cycle) – Tableros en Power BI sobre rendimiento.   
 
 ---
 
@@ -107,8 +101,6 @@
 ## 📫 Contacto  
 - ✉️ Correo: **rjespinozamorgan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)  
-- 🖥️ Portafolio: [Agrega tu Notion/Web]  
-- 📂 Proyectos GitHub: 👉 *ver abajo ⬇️*  
 
 ---
 
