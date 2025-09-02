@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jesús E. Morgan  
 
 💼 **Data Analyst | SQL · Python · Power BI · Figma**  
-📊 Specialized in **Banking Analytics & Real-Time Operations**  
+📊 Specialized in **Real-Time Operations**  
 🌍 Experience in Peru and Argentina | Open to remote roles  
 
 ---
@@ -66,7 +66,7 @@
 # 👋 Hola, soy Jesús E. Morgan  
 
 💼 **Analista de Datos | SQL · Python · Power BI · Figma**  
-📊 Especializado en **Analytics Bancario y Operaciones en Tiempo Real**  
+📊 Especializado en **Operaciones en Tiempo Real**  
 🌍 Experiencia en Perú y Argentina | Disponible para roles remotos  
 
 ---
