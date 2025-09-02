@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Remigio Jesús Espinoza Morgan  
+# 👋 Hi, I’m Jesús E. Morgan  
 
 💼 **Data Analyst | SQL · Python · Power BI · Figma**  
 📊 Specialized in **Banking Analytics & Real-Time Operations**  
@@ -56,7 +56,7 @@
 
 ---
 
-# 👋 Hola, soy Remigio Jesús Espinoza Morgan  
+# 👋 Hola, soy Jesús E. Morgan  
 
 💼 **Analista de Datos | SQL · Python · Power BI · Figma**  
 📊 Especializado en **Analytics Bancario y Operaciones en Tiempo Real**  
@@ -113,4 +113,3 @@
 ---
 
 ⭐️ *Always open to collaborate on Data Analytics & BI projects* | *Siempre abierto a colaborar en proyectos de Analítica & BI*
-
