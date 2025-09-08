@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jesús E. Morgan  
 
-💼 **Data Analyst | SQL · Python · Power BI · Figma**  
+💼 **Data Analyst | SQL · Anatella · Python · Power BI · Figma**  
 📊 Specialized in **Real-Time Operations**  
 🌍 Experience in Peru and Argentina | Open to remote roles  
 
@@ -47,6 +47,7 @@
 ## 📫 Contact  
 - ✉️ Email: **rjespinozamorgan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)   
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [https://wa.me/51944514459](https://wa.me/51944514459?text=Hola%20Jesús%2C%20te%20contacto%20desde%20GitHub)
 
 ---
 
@@ -54,7 +55,7 @@
 
 # 👋 Hola, soy Jesús E. Morgan  
 
-💼 **Analista de Datos | SQL · Python · Power BI · Figma**  
+💼 **Analista de Datos | SQL · Anatella · Python · Power BI · Figma**  
 📊 Especializado en **Operaciones en Tiempo Real**  
 🌍 Experiencia en Perú y Argentina | Disponible para roles remotos  
 
@@ -101,6 +102,7 @@
 ## 📫 Contacto  
 - ✉️ Correo: **rjespinozamorgan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [https://wa.me/51944514459](https://wa.me/51944514459?text=Hola%20Jesús%2C%20te%20contacto%20desde%20GitHub)
 
 ---
 
