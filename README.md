@@ -47,7 +47,7 @@
 ## 📫 Contact  
 - ✉️ Email: **rjespinozamorgan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [https://wa.me/51944514459](https://wa.me/51944514459?text=Hola%20Jesús%2C%20te%20contacto%20desde%20GitHub)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [Escríbeme aquí](https://wa.me/51944514459?text=Hola%20Jes%C3%BAs%2C%20te%20contacto%20desde%20GitHub)
 
 ---
 
@@ -102,7 +102,7 @@
 ## 📫 Contacto  
 - ✉️ Correo: **rjespinozamorgan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/jesusemorgan](https://linkedin.com/in/jesusemorgan)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [https://wa.me/51944514459](https://wa.me/51944514459?text=Hola%20Jesús%2C%20te%20contacto%20desde%20GitHub)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp: [Escríbeme aquí](https://wa.me/51944514459?text=Hola%20Jes%C3%BAs%2C%20te%20contacto%20desde%20GitHub)
 
 ---
 
