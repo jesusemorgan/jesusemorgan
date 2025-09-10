@@ -35,7 +35,8 @@
 
 ## 📂 Featured Projects  
 - 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Adventure_Works_Cycle/tree/main) – Power BI dashboards on AWC performance.  
-- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Expansion analysis of Biogenesys.  
+- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Expansion analysis of Biogenesys.
+- 📊 [**Analisis_NBA**](https://github.com/jesusemorgan/Analisis_NBA/tree/main) – NBA Analysis – Player and Team Performance.  
 
 ---
 
@@ -91,7 +92,8 @@
 
 ## 📂 Proyectos Destacados  
 - 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Adventure_Works_Cycle/tree/main) – Tableros en Power BI sobre rendimiento de AWC.
-- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Análisis de Expansión de Biogenesys.   
+- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Análisis de Expansión de Biogenesys.
+- 📊 [**Analisis_NBA**](https://github.com/jesusemorgan/Analisis_NBA/tree/main) – Análisis de NBA - Rendimiento de jugadores y equipos   
 
 ---
 
