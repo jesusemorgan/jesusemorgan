@@ -34,7 +34,8 @@
 ---
 
 ## 📂 Featured Projects  
-- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Projects/tree/main/Adventure_Works_Cycle) – Dashboards in Power BI on Performance.   
+- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Adventure_Works_Cycle/tree/main) – Power BI dashboards on AWC performance.  
+- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Expansion analysis of Biogenesys.  
 
 ---
 
@@ -89,7 +90,8 @@
 ---
 
 ## 📂 Proyectos Destacados  
-- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Projects/tree/main/Adventure_Works_Cycle) – Tableros en Power BI sobre rendimiento.   
+- 📊 [**Adventure Works Cycle**](https://github.com/jesusemorgan/Adventure_Works_Cycle/tree/main) – Tableros en Power BI sobre rendimiento de AWC.
+- 📊 [**Biogenesys**](https://github.com/jesusemorgan/Biogenesys/tree/main) – Análisis de Expansión de Biogenesys.   
 
 ---
 
